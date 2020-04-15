@@ -18,3 +18,4 @@ Decathlon Easybreath maskeyi solunum maskesine dönüştürme adaptörü 3D mode
 * 210 Derece Baskı Sıcaklığı
 * Desteksiz Baskı
 * Tablaya Tutunma İçin Brim veya Raft
+* Modelin Kendi Oryantasyonu Korunmalı
